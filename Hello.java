@@ -1,3 +1,6 @@
 public class Hello{
-	System.out.println("你好");
+	public static void main(){
+		System.out.println("你好");
+	}
+	
 }
