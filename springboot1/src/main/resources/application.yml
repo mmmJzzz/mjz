@@ -1,0 +1,6 @@
+server:
+  port: 1113
+
+teacher:
+  name: mayun
+  age: 38
