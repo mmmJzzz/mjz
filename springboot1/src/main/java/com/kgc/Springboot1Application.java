@@ -10,6 +10,7 @@ public class Springboot1Application {
 
     public static void main(String[] args) {
         //组员A修改代码
+        //组员B修改代码
         SpringApplication.run(Springboot1Application.class, args);
     }
 
